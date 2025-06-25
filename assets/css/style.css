@@ -37,7 +37,7 @@ html, body {
     padding-right: 1rem;
     padding-bottom: 2.5rem;
     padding-left: 1rem;
-    box-shadow: hsla(108, 100%, 88%, 245.1);
+    box-shadow: hsla(0, 0%, 0%, 0.05)
 }
 
 .qr-code-image img {
